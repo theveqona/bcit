@@ -21,14 +21,8 @@ backdrop-filter:blur(16px);
 
 .logo{
 margin:11px;
-color:#ffffff;
-font-size:36px; 
-}
-
-.para{
-color:#ffffff;
-font-size:16px;
-opacity:0.5;
+color:#00ff00;
+font-size:28px; 
 }
 
 nav a{
@@ -197,7 +191,7 @@ transition:0.4s;
 
 .btn3:hover{
 transform:translateY(-10px) scale(1.1);
-box-shadow:0 0 18px #00ff88;	
+box-shadow:0 0 18px #00ffff;	
 }
 
 .cta{
